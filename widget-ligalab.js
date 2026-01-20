@@ -5,7 +5,7 @@
         message: "Quero mais informações",
         brandColor: "#000000", // Preto sóbrio da Liga
         waColor: "#25D366",    // Verde WhatsApp original
-        logoUrl: "https://lab.ligaportugal.pt/media/1003/logo_lp_lab.png"
+        logoUrl: "https://lab.ligaportugal.pt/_next/static/media/ligaportugalAPNG.cb4214bd.png"
     };
 
     // 2. Injetar Estilos (Design Limpo)
